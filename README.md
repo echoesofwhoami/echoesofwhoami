@@ -3,3 +3,4 @@
 <a href="javas&#99;ript:alert(1)">X</a>
 <meta http-equiv="refresh" content="0;url=javascript:alert(1)">
 <style>*{background:url("javascript:alert(1)")}</style>
+# test
